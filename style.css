@@ -126,6 +126,7 @@ a:hover {
   left: 50%;
   transform: translateX(-50%);
   color: #ea8585; 
-  font-size: 16em;
+  font-size: 3em;
   font-weight: bold;
 }
+
